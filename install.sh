@@ -125,6 +125,7 @@ services:
     container_name: conduit
     restart: unless-stopped
     network_mode: "host"
+    user: root
     command:
       - start
       - --data-dir
