@@ -104,16 +104,4 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhrezaei/easy-conduit/main/ins
 
 ---
 
-*Developed & Maintained by [mhrezaei*](https://github.com/mhrezaei)
-
-```
-
-### تغییرات و نکات فنی رعایت شده (برای اطلاع شما):
-
-1.  **لینک نصب:** از آنجا که فایل را در مسیر `main` قرار داده‌اید، لینک نصب Raw را بر اساس ساختار استاندارد گیت‌هاب (`raw.githubusercontent.com`) ساختم که کاربر بتواند مستقیماً اجرا کند.
-2.  **اشاره به Swap:** در توضیحات (بخش Smart Resource Management) دقیقاً اشاره کردم که اگر رم زیر 1.9GB باشد، سواپ ساخته می‌شود. این نشان‌دهنده دقت فنی داکیومنت است.
-3.  **توضیح Permission Fix:** در توضیحات انگلیسی و فارسی به `chmod 777` که در کد اعمال شده اشاره کردم تا کاربر بداند مشکل پرمیشن فایل‌های داکر حل شده است.
-4.  **جدول دستورات:** برای دستورات `case` که در `setup_management_cli` تعریف کرده بودید، یک جدول تمیز ساختم تا کاربر با یک نگاه متوجه شود چطور باید با سیستم کار کند.
-5.  **فرمت:** فایل کاملاً استاندارد Markdown است و در گیت‌هاب به زیبایی رندر خواهد شد.
-
-```
+Developed & Maintained by [mhrezaei](https://github.com/mhrezaei)
